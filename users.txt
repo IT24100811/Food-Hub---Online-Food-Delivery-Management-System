@@ -1,0 +1,4 @@
+31ce075e-092b-4956-bfb0-cc2498b60ca2|GImhan|gimhan@g.com|0770827611|null|null|No 10||ACTIVE
+7c0cb193-77ec-4379-ba36-c86047866bc2|Gimhan  Ypadate|student@student.com|0716563233|null|null|no 203,hela halpe||ACTIVE
+0b3d5111-34ee-4b44-bb07-1b6b7d4d6b76|Jane Doe|jane.doe@example.com|9876543210|password123|CUSTOMER|123 Maple Street, Springfield|images/profiles/jane_doe.jpg|ACTIVE
+32a6718c-2f54-4eab-9d2b-2558a51e87a6|Jane Doe|admin@admin.com|9876543210|admin123|ADMIN|123 Maple Street, Springfield|images/profiles/jane_doe.jpg|ACTIVE
